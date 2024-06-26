@@ -1,0 +1,9 @@
+Hola! Tutorial de cómo usar el google colab:
+
+1. Corregir el path: en la segunda celda del código (la larga) en la fila 9 dice "file_path". Cambien el path al correspondiente donde tienen el archivo excel con los apellidos y nombres de los misioneros que participan. Ojo!! el archivo excel que usen deben tener el formato apellidos-nombres en las columnas (es decir, en la primera columna deben estar todos los apellidos y en la segunda columna todos los nombres correspondientes).
+
+2. Corregir la cantidad de grupos: a partir de la linea 20 podemos observar str con "Grupo de" x personas "-i" donde i es el numero de grupo con x cantidad de personas. Deben ajustar estas líneas acorde a la cantidad de grupos por tier y la cantidad de gente por cada grupo. Pueden terminar creando más listas o eliminando existentes? SI, dependiendo de la cantidad de gente por grupo y cantidad de grupos por tier.
+
+Cualquier duda contactar al galle por mail (ejgutierrezgarcia@gmail.com) o wpp (casi prefiero wpp)
+Saludos!
+Esteban.
